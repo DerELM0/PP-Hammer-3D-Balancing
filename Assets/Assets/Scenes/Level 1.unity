@@ -6785,17 +6785,17 @@ Prefab:
     - target: {fileID: 114558464758398836, guid: 046a598d4d031fa45b012b6c639a8100,
         type: 2}
       propertyPath: moveSpeed
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 114558464758398836, guid: 046a598d4d031fa45b012b6c639a8100,
         type: 2}
       propertyPath: rotateSpeed
-      value: 80
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 114558464758398836, guid: 046a598d4d031fa45b012b6c639a8100,
         type: 2}
       propertyPath: jumpSpeed
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 046a598d4d031fa45b012b6c639a8100, type: 2}
